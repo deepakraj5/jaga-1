@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unotracker",
+  "private_key_id": "e37b8798ea4c5e9337a570d9bfcda8c694d4d8d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDArdEzSe7d8YiY\n59EuXXSRDNiym8a2bvA5LesCw9UXy8K6vc+MZDelPue4vmTYsrZuFDyERPoaikdR\nskjYBOb0yC9KZarh6Lgd6rVaF55tKA4LBwVwZYGovd1w1KpEFwZJCxFDKaaaGKpH\nOlHS0AmOMgaU3H3lQFoewlM47/FNtrZ90GHQAy+dgr+gB3MJKMgVSgLefKUeF/k/\nNxc6SXwWytwph93zVJi/3MpXHWQDF2T778L1T9XHCdSNJZ6Zz91PocF1M6RhaX68\nj+rc2nToG9N6MMXqJ9kRG0AHPHefsqjScYIYPeN3INUJ1XYWh3iIdilvqpCfKRPE\nWYeoAQSxAgMBAAECggEAQzQ9G/kFFid5H+/3P4c8MZ179awsvpPqON9hsXixmhep\nZ23t9sc7u2i59O9/iC+pPrLTOsU+QMSLRJz9GE95aNZr3DSiyiHcGh8zuuUzDlqi\nr0j3JjFZbIwwsPqUGqS3PgHctwLPh77joW1ffbqvIogjUIepZ60u4bygv2K9VP+x\n+JCTgbN4Qh1MWFezBoqQxMgSWjykBg7mMGfM/votfkh7VZ2S3zrCx24pXb0cDaQj\nUK5wSIb1iST3rVLQv40B0qMCGmvxzpB73yy0mhXK3maE2sScMdEwQrn/NpGTO0Et\nUY5lVqelK5aWcgAXWzvHff5UPLlvF93BummkMNTnwwKBgQD7uzc/+flvlJw0pdsg\nNgaJ4tq6sWvXuVb0Rn1CfgFcnqq1hZDG9KT+vqRks05TyjKZfa0LuYO73ZZ25dpW\nbhKOZsQzZO8bpYqgoyzmHyu1B4/a30tt9CQELDSgRooYyhzHcS5pRCyWvZwUypWI\n7tETL8AftIJNtFoAEObka8RquwKBgQDD8kA1aj6oAANkj9t7jGXSZkc4bSMZX4wS\nYR7gy0aT51AYDtBAK+KNiDwLcQl0FAu3+vqqTHnY1NgFmHAwQwOyjdmwQBO/TAOS\n+OWLLhu7E3itakTNMkqFXO6168tO2WN/1jKS0+k1QmwEUM3kCQTpcfqR28BCxK1F\nTQl1Oo5FgwKBgQDjA5z5xxcZdy2/lOseC1quMrUKtEILE4vFU2RW+IeF3VkZxlAf\n/DRnv8lFPyaeDbTAE0RhVHXmkBjHNNZIJ4/4d9jseFPh3NI9t6ogBXBHG4Cx47mE\neS2ZzbvP5o1Xeb2mZv1x1RdZAbmmTmO4T5ag9OkQLptsM/8OHC/9QuqpTQKBgQCl\nfdm7A2Ot0m0LJvDxdQ+eVuG6B3sIeAk+kKZap3SRgGDGIOTD/gyXCsPjyfF5B2Eq\nXyAMaxDSEFnux+Og70iVKnb8A/Jps9Kk8/Ayz5t+MiDPHhzDzcDgyC+YmHCaxMHj\ne041ciLZ56KBNpneCbwLSkednyLPgXryN/FQAEee7wKBgDVeHdVufSgwfKp8rzZU\nEsjFIk5xIGZJitsB5fUPImV68xZkLqFmvxd/WpP8AaXHPPG3D/q6lXsP7UfxInuf\nNDjDbZXLwArEZFgUTO6FezY97YBcw7RMuCv/nqZKYfYLZfA7kpL2Iouf3hlLyPI9\n6FHl4nr2kJDpwHjlmb17b1aS\n-----END PRIVATE KEY-----\n",
+  "client_email": "unotracker@unotracker.iam.gserviceaccount.com",
+  "client_id": "111257374358792393166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unotracker%40unotracker.iam.gserviceaccount.com"
+}
